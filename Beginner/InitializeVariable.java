@@ -1,3 +1,5 @@
+package Beginner;
+
 public class InitializeVariable {
     public static void main(String[] args){
         //initialize variable
